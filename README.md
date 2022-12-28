@@ -8,4 +8,10 @@ when an input is save, it is then committed to the chrome local storage for futu
 
 
 **FEATURES TO BE ADDED**
+
 You can add a better UI or maintaining it functionality
+
+**TO RUN THIS PROGRAM IN YOUR BROWSER*
+1. head to your chrome extension manager and add the folder to your extensions
+2. refresh, open a new browser window and run it.
+
